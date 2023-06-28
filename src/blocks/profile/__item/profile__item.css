@@ -1,0 +1,12 @@
+.profile__item{
+    max-width: 336px;
+    width: 100%;
+    margin: 0 auto 0 0;
+    padding-top: 2px;
+}
+@media screen and (max-width: 680px){
+    .profile__item{
+        max-width: 282px;
+        margin:24px auto 0;
+    }
+}
