@@ -2,6 +2,7 @@
     max-width: 880px;
     margin: 67px auto 60px;
     display: flex;
+    justify-content: space-between;
 }
 @media screen and (max-width: 880px){
     .footer{
